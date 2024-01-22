@@ -1,4 +1,4 @@
-# COVID Data Exploration Project
+# COVID Data Analysis and Visualization
 
 ## Overview
 
